@@ -9,7 +9,8 @@ Spiralized Boilerplate for Chrome Dev Editor.
 2. Install [Chrome Dev Editor](https://chrome.google.com/webstore/detail/chrome-dev-editor-develop/pnoffddplpippgcfjdhbmhkofpnaalpg?hl=en)
 3. [Create GitHub account](https://help.github.com/articles/signing-up-for-a-new-github-account/) if you don't have one.
 5. [Fork](https://help.github.com/articles/fork-a-repo/) Spiral Boilerplate to your account.
-6. In Chrome Dev Editor:
+6. [Change the name](https://help.github.com/articles/renaming-a-repository/) of the forked repo for your preference.
+7. In Chrome Dev Editor:
   - Select __Git Clone...__ in the menu.
   - Copy and paste your forked boilerplate repo: `https://github.com/[your_user_name]/spiral-boilerplate.git`
   - Chrome Dev Editor will do the rest of the installation for you.
